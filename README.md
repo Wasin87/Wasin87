@@ -18,7 +18,7 @@ Coding with passion, learning with purpose.</h3><br>
 </p>
 
 # 💫 About Me:
-MongoDB<br><br>🔭 I’m currently working on Web Developer<br>🌱 I’m currently learning JavaScript, React<br>👯 I’m looking to collaborate on GitHub, LinkedIn, Facebook, Email<br>🤔 I’m looking for help with “Improving my React & Node.js skills”<br>💬 Ask me about Web Development, MERN Stack<br>📫 How to reach me: Email: wasinahmed87@gmail.com LinkedIn: www.linkedin.com/in/ md-wasin-ahmed
+<br>🔭 I’m currently working on Web Developer<br>🌱 I’m currently learning JavaScript, React<br>👯 I’m looking to collaborate on GitHub, LinkedIn, Facebook, Email<br>🤔 I’m looking for help with “Improving my React & Node.js skills”<br>💬 Ask me about Web Development, MERN Stack<br>📫 How to reach me: Email: wasinahmed87@gmail.com LinkedIn: www.linkedin.com/in/ md-wasin-ahmed
 
 
 ## 🌐 Socials:
@@ -26,7 +26,7 @@ MongoDB<br><br>🔭 I’m currently working on Web Developer<br>🌱 I’m curre
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MD Wasin Ahmed)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Md Wasin Ahmed) <br>
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)] Username: @wasin52084  <br>
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@WAR Tech Academy ) <br>
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@wasinahmed-v5h?si=dK7FgLpdnWpJIVH5 ) <br>
 Email: ( wasinahmed87@gmail.com) 
 
 # 💻 Tech Stack:
