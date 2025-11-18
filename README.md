@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Wasin Ahmed</h1>
+<img src="https://i.ibb.co.com/1tYpW1PN/Banner.png">
 <h3 align="center">Aspiring Full Stack Web Developer passionate about building modern, responsive, and user-focused web applications. Continuously learning new technologies to create clean, efficient, and scalable digital solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasin87&label=Profile%20views&color=0e75b6&style=flat" alt="wasin87" /> </p>
