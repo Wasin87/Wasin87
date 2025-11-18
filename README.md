@@ -1,4 +1,9 @@
 <h1 align="center">💫 Hi 👋, I'm Md Wasin Ahmed</h1>
+
+### Web Developer 💻  
+<h3>Learning and building with the **MERN Stack** and modern UI tools.  
+Coding with passion, learning with purpose.</h3><br>
+
 <p align="center">
   <img src="https://i.ibb.co/1tYpW1PN/Banner.png" alt="Banner" width="100%">
 </p>
