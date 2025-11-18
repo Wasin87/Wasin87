@@ -26,7 +26,6 @@ Coding with passion, learning with purpose.</h3><br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MD Wasin Ahmed)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Md Wasin Ahmed) <br>
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)] Username: @wasin52084  <br>
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@wasinahmed-v5h?si=dK7FgLpdnWpJIVH5 ) <br>
 Email: ( wasinahmed87@gmail.com) 
 
 # 💻 Tech Stack:
