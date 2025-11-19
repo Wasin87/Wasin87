@@ -22,18 +22,110 @@ Coding with passion, learning with purpose.</h3><br>
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)] Username: wasin87  <br>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MD Wasin Ahmed)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Md Wasin Ahmed) <br>
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)] Username: @wasin52084  <br>
-Email: ( wasinahmed87@gmail.com) 
+ 
+<p>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/wasin87" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wasin87" height="30" width="40" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Facebook -->
+  <a href="https://facebook.com/MDWasinAhmed" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MD Wasin Ahmed" height="30" width="40" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/MdWasinAhmed" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md Wasin Ahmed" height="30" width="40" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/wasin52084" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@wasin52084" height="30" width="40" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Email -->
+  <a href="mailto:wasinahmed87@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="wasinahmed87@gmail.com" height="30" width="40" />
+  </a>
+
+</p>
+</br>
+
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wasin87&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=wasin87&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wasin87&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<!-- Tech Stack with animated icons -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
+
+<div align="center">
+
+<!-- Frontend -->
+### 🎨 **Frontend Development**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,materialui,figma,framer&theme=dark" />
+
+<!-- Backend -->
+### ⚙️ **Backend Development**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
+
+<!-- Programming Languages -->
+### 📱 **Programming Languages**
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" />
+
+<!-- Tools & Platforms -->
+### 🛠️ **Tools & Technologies**
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux,vercel,netlify,canva,protoio&theme=dark" />
+
+</div>
+
+<!-- GitHub Analytics -->
+---------
+<h3 align="left">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32">
+  GitHub Analytics — Md Wasin Ahmed
+</h3>
+
+<!-- Top Languages -->
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasin87&layout=compact&theme=transparent" alt="wasin87" />
+
+<!-- Main Stats -->
+<p>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=wasin87&show_icons=true&locale=en&theme=transparent" alt="wasin87" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wasin87&theme=neon" alt="wasin87" />
+</p>
+
+
+ 
+
+
+<!-- Divider GIF -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3><img src="https://media.giphy.com/media/ZcnpXLn9Z4Vf6/giphy.gif" width="32">Statistics</h3>
+
+
+<!-- Summary Cards -->
+<div align="center">
+  <a href="https://github.com/wasin87">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wasin87&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wasin87&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wasin87&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wasin87&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasin87&theme=transparent" height="180em" />
+  </a>
+</div>
+
+<!-- Activity Graph -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="left">⚡Activity Graph:</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasin87&theme=lucent" alt="Activity Graph for wasin87" />
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wasin87&theme=radical&no-frame=false&no-bg=false&margin-w=4)
