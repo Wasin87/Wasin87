@@ -22,7 +22,7 @@ Coding with passion, learning with purpose.</h3><br>
 </p>
 
 # 💫 About Me:
-<br>🔭 I’m currently working on Web Developer<br>🌱 I’m currently learning JavaScript, React<br>👯 I’m looking to collaborate on GitHub, LinkedIn, Facebook, Email<br>🤔 I’m looking for help with “Improving my React & Node.js skills”<br>💬 Ask me about Web Development, MERN Stack<br>📫 How to reach me: Email: wasinahmed87@gmail.com LinkedIn: www.linkedin.com/in/ md-wasin-ahmed<br>📫 How to contact me: 01774178772
+<br>🔭 I’m currently working on Web Developer<br>🌱 I’m currently learning JavaScript, React<br>👯 I’m looking to collaborate on GitHub, LinkedIn, Facebook, Email<br>🤔 I’m looking for help with “Improving my React, Next.js & Node.js skills”<br>💬 Ask me about Web Development, MERN Stack<br>📫 How to reach me: Email: wasinahmed87@gmail.com LinkedIn: www.linkedin.com/in/ md-wasin-ahmed<br>📫 How to contact me: 01774178772
 
 
 ## 🌐 Socials:
