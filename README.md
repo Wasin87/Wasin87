@@ -82,41 +82,32 @@ Coding with passion, learning with purpose.</h3><br>
 
 </div>
 
+
 <!-- GitHub Analytics -->
----------
-<h3 align="left">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32">
-  GitHub Analytics — Md Wasin Ahmed
-</h3>
+<h2>📊 GitHub Analytics — Md Wasin Ahmed</h2>
 
-<!-- GitHub Stats Section -->
-<div align="center">
-
-  <!-- Main GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=wasin87&show_icons=true&theme=transparent" 
+<!-- Stats & Languages -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=wasin87&show_icons=true&theme=dark&cache_seconds=86400"
     height="180"
     alt="GitHub Stats"
   />
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasin87&layout=compact&theme=transparent" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasin87&layout=compact&theme=dark&cache_seconds=86400"
     height="180"
     alt="Top Languages"
   />
+</p>
 
-</div>
-
-<br/>
-
-<!-- GitHub Streak Stats -->
-<div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=wasin87&theme=transparent" 
+<!-- Streak -->
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=wasin87&theme=dark"
     alt="GitHub Streak"
   />
-</div>
+</p>
+
 
 
 
