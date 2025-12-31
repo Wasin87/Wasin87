@@ -22,7 +22,7 @@ Coding with passion, learning with purpose.</h3><br>
 </p>
 
 # 💫 About Me:
-<br>🔭 I’m currently working on Web Developer<br>🌱 I’m currently learning JavaScript, React<br>👯 I’m looking to collaborate on GitHub, LinkedIn, Facebook, Email<br>🤔 I’m looking for help with “Improving my React & Node.js skills”<br>💬 Ask me about Web Development, MERN Stack<br>📫 How to reach me: Email: wasinahmed87@gmail.com LinkedIn: www.linkedin.com/in/ md-wasin-ahmed
+<br>🔭 I’m currently working on Web Developer<br>🌱 I’m currently learning JavaScript, React<br>👯 I’m looking to collaborate on GitHub, LinkedIn, Facebook, Email<br>🤔 I’m looking for help with “Improving my React & Node.js skills”<br>💬 Ask me about Web Development, MERN Stack<br>📫 How to reach me: Email: wasinahmed87@gmail.com LinkedIn: www.linkedin.com/in/ md-wasin-ahmed<br>📫 How to contact me: 01774178772
 
 
 ## 🌐 Socials:
@@ -90,17 +90,33 @@ Coding with passion, learning with purpose.</h3><br>
 </h3>
 
 <!-- Top Languages -->
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasin87&layout=compact&theme=transparent" alt="wasin87" />
+<img
+  align="left"
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasin87&layout=compact&theme=transparent"
+  alt="Top Languages"
+/>
 
 <!-- Main Stats -->
-<p>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=wasin87&show_icons=true&locale=en&theme=transparent" alt="wasin87" />
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=wasin87&show_icons=true&theme=transparent"
+    alt="GitHub Stats"
+  />
 </p>
+
+<!-- Clear float -->
+<br clear="both"/>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wasin87&theme=neon" alt="wasin87" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=wasin87&theme=transparent"
+    alt="GitHub Streak"
+  />
 </p>
+
 
 
  
