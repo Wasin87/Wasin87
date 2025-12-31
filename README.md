@@ -89,33 +89,35 @@ Coding with passion, learning with purpose.</h3><br>
   GitHub Analytics — Md Wasin Ahmed
 </h3>
 
-<!-- Top Languages -->
-<img
-  align="left"
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasin87&layout=compact&theme=transparent"
-  alt="Top Languages"
-/>
+<!-- GitHub Stats Section -->
+<div align="center">
 
-<!-- Main Stats -->
-<p align="center">
-  <img
+  <!-- Main GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=wasin87&show_icons=true&theme=transparent" 
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=wasin87&show_icons=true&theme=transparent"
     alt="GitHub Stats"
   />
-</p>
 
-<!-- Clear float -->
-<br clear="both"/>
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasin87&layout=compact&theme=transparent" 
+    height="180"
+    alt="Top Languages"
+  />
 
-<!-- Streak Stats -->
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=wasin87&theme=transparent"
+</div>
+
+<br/>
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=wasin87&theme=transparent" 
     alt="GitHub Streak"
   />
-</p>
+</div>
+
 
 
 
