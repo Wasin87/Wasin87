@@ -10,7 +10,8 @@ Coding with passion, learning with purpose.</h3><br>
 
 <p align="center">
   <img src="https://i.ibb.co/1tYpW1PN/Banner.png" alt="Banner" width="100%">
-    
+    <img width="4032" height="3024" alt="Diu" src="https://github.com/user-attachments/assets/d0289cb8-3dec-4592-809a-52e6d521ba05" />
+
 
 </p>
  
