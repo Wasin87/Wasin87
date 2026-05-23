@@ -10,7 +10,7 @@ Coding with passion, learning with purpose.</h3><br>
 
 <p align="center">
   <img src="https://i.ibb.co/1tYpW1PN/Banner.png" alt="Banner" width="100%">
-    <img width="1200" height="740" alt="D" src="https://github.com/user-attachments/assets/8da5466f-7bd6-40bc-b9c6-42c0abd23099" />
+    
 
 </p>
  
